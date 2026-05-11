@@ -76,8 +76,7 @@ const foods = [
     name: "Biryani",
     price: 279,
     description: "Hyderabadi style spicy biryani",
-    image:
-      "https://images.unsplash.com/photo-1633945274309-2c1c9682a8b",
+    image: "https://images.unsplash.com/photo-1563379091339-03246963d29a",
   },
 
   {
@@ -140,16 +139,14 @@ const foods = [
     name: "Garlic Bread",
     price: 119,
     description: "Cheesy garlic bread",
-    image:
-      "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c",
+    image: "https://images.unsplash.com/photo-1573140401552-3fab0b24306f",
   },
 
   {
     name: "Samosa",
     price: 49,
     description: "Crispy spicy potato samosa",
-    image:
-      "https://images.unsplash.com/photo-1601050690117-94f5f6fa9064",
+    image: "https://images.unsplash.com/photo-1589302168068-964664d93dc0",
   },
 
   {
